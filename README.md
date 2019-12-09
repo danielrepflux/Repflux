@@ -18,8 +18,17 @@ Because your customers are close by when they receive a notification for your bu
 
 There are two factors to consider if proximity notifications are right for your business:
 
-- Your business has a consistent physical location Example: retail, restaurants, Beauty Salon, Car Wash, Bakery, Florist
-- Your business offers good or services that are likely to be used by individuals at least once every three months.
+1. Your business has a consistent physical location Example: retail, restaurants, Beauty Salon, Car Wash, Bakery, Florist
+2. Your business offers good or services that are likely to be used by individuals at least once every three months.
+
+### What else can this do for my business?
+
+The notification system is so advanced it comes with the following features:
+- Membership Cards
+- Rewards Points tracking
+- Coupons/Discount (distribute them to everyone or just some customers)
+- Online purchases/Payments
+- Two-way communications (let your customers ask you questions directly)
 
 ```markdown
 Syntax highlighted code block
