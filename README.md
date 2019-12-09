@@ -6,13 +6,20 @@ How? Proximity Notifications.
 
 ![Image of Notifications](https://i.imgur.com/bz3rgDK.png)
 
-These notifications appear instantly on your customers phone screens when they are close to your business. 
+These notifications appear instantly on your customers phone screens when they are close to your business.
+
 ### Why it Works
 
 Because your customers are close by when they receive a notification for your business they are motivated to come inside and check out your latest products and promotions. 
 
 60-70% of returning customers make a purchase! Compared to only 5-20% for a new customer visiting your business the first time.
 
+### How do I know if this is right for my business?
+
+There are two factors to consider if proximity notifications are right for your business:
+
+- Your business has a consistent physical location Example: retail, restaurants, Beauty Salon, Car Wash, Bakery, Florist
+- Your business offers good or services that are likely to be used by individuals at least once every three months.
 ```markdown
 Syntax highlighted code block
 
