@@ -1,8 +1,10 @@
 ## Welcome to Repflux
 
-You can use the [editor on GitHub](https://github.com/danielrepflux/Repflux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Traditional marketing is too expensive! You can put an advertisement for your business in many places but get minimal results. The solution? Get your regular customers to come in more often and spend more at your business with each visit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How? Proximity Notifications. 
+
+![Image of Notifications](https://i.imgur.com/bz3rgDK.png)
 
 ### Markdown
 
