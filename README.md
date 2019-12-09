@@ -14,6 +14,8 @@ Because your customers are close by when they receive a notification for your bu
 
 **60-70% of returning customers make a purchase!** Compared to only 5-20% for a new customer visiting your business the first time.
 
+What if I want to send notifications to customers that aren't nearby? You can also send mass notifications to the rest of your customers regardless of their current location.
+
 ### How do I know if this is right for my business?
 
 There are two factors to consider if proximity notifications are right for your business:
