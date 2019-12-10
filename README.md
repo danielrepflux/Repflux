@@ -34,4 +34,4 @@ The notification system is so advanced it comes with the following features:
 
 ### Ready to see more?
 
-Give us a call at 404-458-1986 and we'll show you a fast video presentation about how the system works and what it can do for your business.
+Give us a call at 404-458-1986 and we'll show you a quick video presentation about how the system works and what it can do for your business.
