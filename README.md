@@ -2,26 +2,26 @@
 
 Traditional marketing is too expensive! You can put an advertisement for your business in many places but get minimal results. The solution? Get your regular customers to come in more often and spend more at your business with each visit.
 
-How? Proximity Notifications. 
+How? QR Codes. 
 
 ![Image of Notifications](https://i.imgur.com/bz3rgDK.png)
 
-These notifications appear instantly on your customers phone screens when they are close to your business.
+These codes are provided to each of your customers so they can take home and scan on a weekly basis to see your latest products and deals.
 
 ### Why it Works
 
-Because your customers are close by when they receive a notification for your business they are motivated to come inside and check out your latest products and promotions. 
+Your customers want the best deals when shopping, so its important they keep up to date with your latest prices. 
 
 **60-70% of returning customers make a purchase!** Compared to only 5-20% for a new customer visiting your business the first time.
 
-What if I want to send notifications to customers that aren't nearby? You can also send mass notifications to the rest of your customers regardless of their current location.
+Most small retailers try to keep their customers informed via social media but consumers are swamped by multiple businesses everytime they log-on, by giving them a physical QR code they can check your stores best offers as often as they want directly on their phone.
 
 ### How do I know if this is right for my business?
 
-There are two factors to consider if proximity notifications are right for your business:
+There are two factors to consider if QR codes are right for your business: 
 
-1. Your business has a consistent physical location Example: retail, restaurants, Beauty Salon, Car Wash, Bakery, Florist
-2. Your business offers good or services that are likely to be used by individuals at least once every three months.
+1. Your business has 
+2. Your business offers good or services that have discounts of at least 10%
 
 ### What else can this do for my business?
 
