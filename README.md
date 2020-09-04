@@ -1,6 +1,6 @@
-## Proximity Notifications
+## Coupons on your Phone
 
-Traditional marketing is too expensive! You can put an advertisement for your business in many places but get minimal results. The solution? Get your regular customers to come in more often and spend more at your business with each visit.
+Traditional marketing is too expensive! You can place an advertisement for your business in many places but get minimal results. The solution? Get your regular customers to come in more often and spend more at your business with each visit.
 
 How? QR Codes. 
 
@@ -21,7 +21,7 @@ Most small retailers try to keep their customers informed via social media but c
 There are two factors to consider if QR codes are right for your business: 
 
 1. Your business has 
-2. Your business offers good or services that have discounts of at least 10%
+2. Your business regularly has goods or services that are 10% off or more
 
 ### What else can this do for my business?
 
