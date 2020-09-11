@@ -4,7 +4,7 @@ Traditional marketing is too expensive! You can place an advertisement for your 
 
 How? QR Codes. 
 
-![Image of Notifications](https://i.imgur.com/bz3rgDK.png)
+![Image of Notifications](https://i.imgur.com/dgBIldM.png)
 
 These codes are provided to each of your customers so they can take home and scan on a weekly basis to see your latest products and deals.
 
