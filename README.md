@@ -1,16 +1,16 @@
 ## Coupons on your Phone
 
-Traditional marketing is too expensive! You can place an advertisement for your business in many places but get minimal results. The solution? Get your regular customers to come in more often and spend more at your business with each visit.
+Traditional marketing is too expensive! You can promote your store on social media and get many of your customers to follow your page. Unforunately your customers also follow many other businisses, so your latest products and deals go unnoticed . The solution? Give your customers an IR Smart Coupon to see your latest produts and promotions directly on their phone.
 
-How? QR Codes. 
+What are Image Recognition Smart Coupons? 
 
 ![Image of Notifications](https://i.imgur.com/dgBIldM.png)
 
-These codes are provided to each of your customers so they can take home and scan on a weekly basis to see your latest products and deals.
+IR Smart Coupons look like normal printed coupons but they are able to be scanned with any smart phone camera. When a customer scans the coupon they are taken to an update webpage that shows your stores latest product deals. This means they can keep this coupon in their wallet, purse, car, or on the fridge and rescan it as often as they want to see your latest offerings.
 
 ### Why it Works
 
-Your customers want the best deals when shopping, so its important they keep up to date with your latest prices. 
+As shoppers we are conditioned to look for the best deals. The challenge is that our attention is being pulled in a thousand different directions when browsing online. By giving customers control over when they see deals and providing them with a quick/convenient way of accessing them 
 
 **60-70% of returning customers make a purchase!** Compared to only 5-20% for a new customer visiting your business the first time.
 
