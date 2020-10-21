@@ -12,13 +12,19 @@ IR Smart Coupons look like normal printed coupons but they are able to be scanne
 
 As shoppers we are conditioned to look for the best deals. The challenge is that our attention is being pulled in a thousand different directions when browsing online. By giving customers control over when they see deals and providing them with a quick/convenient way of accessing them 
 
+32% of consumers look for online coupons on a weekly basis
+
+42% of consumers use targeted offers from their favorite stores
+
+source: KnowledgeEnthusiast (people love getting coupons, especially on social media)^
+
 **60-70% of returning customers make a purchase!** Compared to only 5-20% for a new customer visiting your business the first time.
 
 Most small retailers try to keep their customers informed via social media but consumers are swamped by multiple businesses everytime they log-on, by giving them a physical QR code they can check your stores best offers as often as they want directly on their phone.
 
 ### How do I know if this is right for my business?
 
-There are two factors to consider if QR codes are right for your business: 
+There are two factors to consider if IR Coupons are right for your business: 
 
 1. Your business has 
 2. Your business regularly has goods or services that are 10% off or more
