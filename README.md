@@ -4,7 +4,7 @@ Traditional marketing is too expensive! You can promote your store on social med
 
 What are Image Recognition Smart Coupons? 
 
-![Image of Notifications](https://i.imgur.com/dgBIldM.png)
+![Image of AR in store](https://i.imgur.com/MeVrBA9.jpg)
 
 IR Smart Coupons look like normal printed coupons but they are able to be scanned with any smart phone camera. When a customer scans the coupon they are taken to an update webpage that shows your stores latest product deals. This means they can keep this coupon in their wallet, purse, car, or on the fridge and rescan it as often as they want to see your latest offerings.
 
