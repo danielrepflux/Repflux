@@ -23,10 +23,10 @@ Most small retailers try to keep their customers informed via social media but c
 
 ### How do I know if this is right for my business?
 
-There are two factors to consider if IR Coupons are right for your business: 
+There are two factors to consider if AR Coupons are right for your business: 
 
-1. Your business has 
-2. Your business regularly has goods or services that are 10% off or more
+1. Your store has at least 3 items on sale every week
+2. Your stores social media account has many followers and new posts are getting "likes" but they aren't generating the amount of sales you'd like
 
 ### What else can this do for my business?
 
