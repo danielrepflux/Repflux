@@ -1,5 +1,4 @@
-## Coupons on your Phone
-
+## Coupons on your Phone and in the real World
 Traditional marketing is too expensive! You can promote your store on social media and get many of your customers to follow your page. Unforunately your customers also follow many other businisses, so your latest products and deals go unnoticed . The solution? Give your customers an IR Smart Coupon to see your latest produts and promotions directly on their phone.
 
 What are Image Recognition Smart Coupons? 
