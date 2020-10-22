@@ -1,15 +1,15 @@
 ## Coupons on your Phone and in the real World
-Traditional marketing is too expensive! You can promote your store on social media and get many of your customers to follow your page. Unforunately your customers also follow many other businisses, so your latest products and deals go unnoticed . The solution? Give your customers an IR Smart Coupon to see your latest produts and promotions directly on their phone.
+Traditional marketing is too expensive! You can promote your store on social media and get many of your customers to follow your page. Unforunately your customers also follow many other businisses, so your latest products and deals go unnoticed . The solution? Give your customers an AR Smart Coupon to see your latest produts and promotions directly on their phone.
 
-What are Image Recognition Smart Coupons? 
+What are Augmented Reality Smart Coupons? 
 
 ![Image of AR in store](https://i.imgur.com/rxldIbt.jpg)
 
-IR Smart Coupons look like normal printed coupons but they are able to be scanned with any smart phone camera. When a customer scans the coupon they are taken to an update webpage that shows your stores latest product deals. This means they can keep this coupon in their wallet, purse, car, or on the fridge and rescan it as often as they want to see your latest offerings.
+AR Smart Coupons allow customers to see what items are on sale through their cell phone by pointing their camera at either a printed coupons or real world objects in your store. When a customer scans the coupon they are taken to an updated webpage that shows your stores latest product deals. This means they can keep one printed coupon from your store and scan it wheneber they choose to see your latest promotions. 
 
-### Why it Works
+### Why it increases Sales
 
-As shoppers we are conditioned to look for the best deals. The challenge is that our attention is being pulled in a thousand different directions when browsing online. By giving customers control over when they see deals and providing them with a quick/convenient way of accessing them 
+As shoppers we are conditioned to look for the best deals. The challenge is that our attention is being pulled in a thousand different directions when browsing online. By giving customers control over when they see deals and providing them with a quick/convenient way of accessing them they become likelier to purchase more often and spend more each time.
 
 32% of consumers look for online coupons on a weekly basis
 
