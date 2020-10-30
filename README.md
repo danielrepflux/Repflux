@@ -30,11 +30,10 @@ There are two factors to consider if AR Coupons are right for your business:
 
 ### What else can this do for my business?
 
-The notification system is so advanced it comes with the following features:
-- Membership Cards
-- Rewards Points tracking
+The Augmented Reality system is so convenient it comes with the following features:
 - Coupons/Discount (distribute them to everyone or just some customers)
 - Online purchases/Payments
+- Rewards Points tracking
 - Two-way communications (let your customers ask you questions directly)
 
 ### Ready to see more?
