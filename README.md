@@ -26,7 +26,7 @@ Most small retailers try to keep their customers informed via social media but c
 There are two factors to consider if AR Coupons are right for your business: 
 
 1. Your store has at least 3 items on sale every week
-2. Your stores social media account has many followers and new posts are getting "likes" but they aren't generating the amount of sales you'd like
+2. Social media posts for your store get many "likes", but they aren't leading to the amount of sales you'd like
 
 ### What else can this do for my business?
 
