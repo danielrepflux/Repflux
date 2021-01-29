@@ -7,7 +7,7 @@ What are Augmented Reality Smart Coupons?
 
 AR Smart Coupons allow customers to see what items are on sale through their cell phone by pointing their camera at either a printed coupons or real world objects in your store. When a customer scans the coupon they are taken to an updated webpage that shows your stores latest product deals. This means they can keep one printed coupon from your store and scan it wheneber they choose to see your latest promotions. 
 
-![Video of AR in store](https://streamable.com/hztad5)
+(https://i.imgur.com/Q49UE8C.mp4)
 
 
 ### Why it increases Sales
